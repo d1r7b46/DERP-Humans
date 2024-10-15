@@ -3,7 +3,7 @@ Default Email Repository Project - Humans (a DERP side project)
 
 
 ## Description
-The Default Email Repository Project - Humans is a curated collection of common human names and common human names formatted for usernames. It aims to provide a comprehensive resource for anyone for whatever reason they want it for, but as a heads up it is being created from a red-teaming/pentesting perspective. 
+The Default Email Repository Project - Humans is a collection of common human names and common human names formatted for usernames. It aims to provide a comprehensive resource for anyone for whatever reason they want it for, but as a heads up it is being created from a red-teaming/pentesting perspective. 
 
 
 ## Features
