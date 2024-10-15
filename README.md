@@ -24,7 +24,7 @@ From https://forebears.io/earth/surnames <br>
 ### 1000-Canada-Surnames
 From https://statistique.quebec.ca/en/produit/tableau/the-first-1000-family-names-by-rank-quebec <br>
 ### 50-US-Last.f and the like
-The top 50 names in common username formats with a-z additions
+An example of what to do with these, the top 50 names in common username formats with a-z additions
 ### Create_DERP_Human.xlsx
 An example of how to use Excel to create lists like this quickly. You can find a python version [here](https://github.com/d1r7b46/Password-Spray-Tools). 
 
