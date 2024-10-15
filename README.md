@@ -36,3 +36,7 @@ An example of how to use Excel to create lists like this quickly.
 
 ## Tool Buddies
 See https://github.com/d1r7b46/DERP_Generator soon for this inclusion
+
+## Support
+If this helped you get going on your webapp pentesting journey, I want to know! Please feel free to add or tag me - [My LinkedIn](https://www.linkedin.com/in/angsec/) <br>
+If you got a ton out of this and want to buy me a coffee, I won't say no :D [Kofi](https://ko-fi.com/d1r7b46)
