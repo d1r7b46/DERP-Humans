@@ -1,5 +1,5 @@
 # DERP-Humans
-Default Email Repository Project - Human Names <br>
+Default Email Repository Project - Human Names Repository Side Project <br>
 
 #### 1000-US-Surnames
 https://names.mongabay.com/most_common_surnames.htm <br>
