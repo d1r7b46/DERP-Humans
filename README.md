@@ -17,15 +17,15 @@ Contributing to the Default Email Repository Project - Humans is easy! Simply fo
 
 ## List Details
 
-#### 1000-US-Surnames
+### 1000-US-Surnames
 From https://names.mongabay.com/most_common_surnames.htm <br>
-#### 1000-Worldwide-Surnames
+### 1000-Worldwide-Surnames
 From https://forebears.io/earth/surnames <br>
-#### 1000-Canada-Surnames
+### 1000-Canada-Surnames
 From https://statistique.quebec.ca/en/produit/tableau/the-first-1000-family-names-by-rank-quebec <br>
-#### 50-US-Last.f and the like
+### 50-US-Last.f and the like
 The top 50 names in common username formats with a-z additions
-#### Create_DERP_Human.xlsx
+### Create_DERP_Human.xlsx
 An example of how to use Excel to create lists like this quickly. 
 
 
