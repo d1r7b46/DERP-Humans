@@ -7,7 +7,7 @@ The Default Email Repository Project - Humans is a curated collection of common 
 
 
 ## Features
-1. **Industry-Specific Formats:** The growing repository includes common surname lists as well as lists of potential accounts based on the top 50 from each major region.
+1. **Common Name Formats:** The growing repository includes common surname lists as well as lists of potential accounts based on the top 50 from each major region.
 2. **Contributions:** Users are encouraged to contribute to the repository by adding new industry-specific email formats, updating existing ones, or suggesting improvements.
 5. **Open Source:** The project is open source.
 
@@ -23,6 +23,11 @@ https://names.mongabay.com/most_common_surnames.htm <br>
 https://forebears.io/earth/surnames <br>
 #### 1000-Canada-Surnames
 https://statistique.quebec.ca/en/produit/tableau/the-first-1000-family-names-by-rank-quebec <br>
+#### 50-US-
+
+
+#### Create_DERP_Human.xlsx
+An example of how to use Excel to create lists like this quickly. 
 
 
 ## Contributors
